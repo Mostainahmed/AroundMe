@@ -9,8 +9,9 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
+
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.drawable.GlideDrawable;
 import com.bumptech.glide.request.RequestListener;

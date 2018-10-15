@@ -2,8 +2,9 @@ package com.aroundme.mostain.Utils.fcm;
 
 import android.util.Log;
 
-import com.angopapo.aroundme2.App.Application;
-import com.angopapo.aroundme2.R;
+
+import com.aroundme.mostain.App.Application;
+import com.aroundme.mostain.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

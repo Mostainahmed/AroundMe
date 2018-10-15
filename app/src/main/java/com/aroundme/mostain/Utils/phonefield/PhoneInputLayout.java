@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.ViewGroup;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
 
 
 public class PhoneInputLayout extends PhoneField {

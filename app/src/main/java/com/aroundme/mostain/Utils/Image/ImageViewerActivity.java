@@ -13,8 +13,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.R;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.drawable.GlideDrawable;
 import com.bumptech.glide.request.RequestListener;

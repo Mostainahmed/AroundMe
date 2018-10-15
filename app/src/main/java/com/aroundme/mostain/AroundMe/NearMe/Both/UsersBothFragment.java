@@ -21,11 +21,11 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.Adapters.UsersAdapter;
-import com.angopapo.aroundme2.App.DispatchActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Internet.CheckServer;
+import com.aroundme.mostain.Adapters.UsersAdapter;
+import com.aroundme.mostain.App.DispatchActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Internet.CheckServer;
 import com.facebook.login.LoginManager;
 import com.firebase.geofire.GeoFire;
 import com.firebase.geofire.GeoLocation;

@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
 import com.flipboard.bottomsheet.commons.BottomSheetFragment;
 
 public class WelcomeFragment extends BottomSheetFragment {

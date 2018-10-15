@@ -1,6 +1,7 @@
 package com.aroundme.mostain.Utils.utils;
 
-import com.angopapo.aroundme2.R;
+
+import com.aroundme.mostain.R;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

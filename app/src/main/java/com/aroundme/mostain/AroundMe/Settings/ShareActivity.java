@@ -13,7 +13,8 @@ import android.view.Window;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
+
 
 /**
  * Invites friends to use your application with Facebook, WhatsApp or the standard share intent.

@@ -11,7 +11,7 @@ import android.os.Handler;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
 
 public class SplashScreen extends Activity {
 

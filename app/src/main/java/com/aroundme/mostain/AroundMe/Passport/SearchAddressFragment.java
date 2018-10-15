@@ -11,11 +11,12 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Location.GeocoderResultAdapter;
-import com.angopapo.aroundme2.Utils.Location.GeocoderService;
-import com.angopapo.aroundme2.Utils.Location.models.GeocoderResponse;
-import com.angopapo.aroundme2.Utils.Location.models.GeocoderResult;
+
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Location.GeocoderResultAdapter;
+import com.aroundme.mostain.Utils.Location.GeocoderService;
+import com.aroundme.mostain.Utils.Location.models.GeocoderResponse;
+import com.aroundme.mostain.Utils.Location.models.GeocoderResult;
 
 import java.util.List;
 import java.util.Locale;

@@ -11,9 +11,9 @@ import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.GridView;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 
 
 public class AboutActivity extends BaseActivity implements ActivityWithToolbar, GridView.OnItemClickListener, View.OnClickListener {

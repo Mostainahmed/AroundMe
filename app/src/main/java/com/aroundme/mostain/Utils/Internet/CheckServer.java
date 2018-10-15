@@ -9,7 +9,7 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
 
 import java.net.URL;
 import java.net.URLConnection;

@@ -1,4 +1,4 @@
-package com.angopapo.aroundme2.App;
+package com.aroundme.mostain.App;
 
 import android.support.multidex.MultiDex;
 import android.support.multidex.MultiDexApplication;

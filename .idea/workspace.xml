@@ -14,7 +14,98 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7ade8de-b894-4a55-99a0-215a2b68e7d0" name="Default" comment="" />
+    <list default="true" id="e7ade8de-b894-4a55-99a0-215a2b68e7d0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customtabs_27_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/ChatAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/ChatAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/HotOrnotAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/HotOrnotAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/UsersAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/UsersAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/DispatchActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/DispatchActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/NavigationDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/NavigationDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/App/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/HotOrHot/HotOrNotActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/HotOrHot/HotOrNotActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Location/LocationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Location/LocationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Activity/ChatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Activity/ChatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Activity/ImageViewerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Activity/ImageViewerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Addon/ChatContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Addon/ChatContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Addon/ChatInteractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Addon/ChatInteractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Addon/ChatPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Addon/ChatPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/ChatList/ListChatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/ChatList/ListChatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Fragment/ChatFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Fragment/ChatFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/MyVisitorsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/MyVisitorsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/VisitorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/VisitorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/AroundMeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/AroundMeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Both/UsersBothFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Both/UsersBothFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Female/UsersFemaleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Female/UsersFemaleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Male/UsersMaleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Male/UsersMaleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Matchs/UsersMatchsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Matchs/UsersMatchsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/NearMeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/NearMeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/NewOneUsersBothFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/NewOneUsersBothFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/NewUsersBothFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/NewUsersBothFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/NovoUsersBothFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/NovoUsersBothFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/UsersBothFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Both/UsersBothFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Female/UsersFemaleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Female/UsersFemaleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Male/UsersMaleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/Male/UsersMaleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/NewUsersViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/NewUsersViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/UsersAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/Old/UsersAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/PassportActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/PassportActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/SearchAddressFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/SearchAddressFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/TravelActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/TravelActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/PrivateProfile/PrivateProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/PrivateProfile/PrivateProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/EditProfileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/EditProfileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/MyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/MyProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UploadTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UploadTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UserProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/MyAccountActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/MyAccountActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivacyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivacyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivateModeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivateModeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/ShareActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/ShareActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/TermsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/TermsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/StoreActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/StoreActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipAccountActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipAccountActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipActivationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipActivationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Welcome/WelcomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Welcome/WelcomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/ForgotActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/ForgotActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/PhoneAuthActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/PhoneAuthActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/SignUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Firebase/FirebaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Firebase/FirebaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/GlideUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/GlideUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/ImageViewerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/ImageViewerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Internet/CheckServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Internet/CheckServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderResultAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderResultAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/FcmNotificationBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/FcmNotificationBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseInstanceIDService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseInstanceIDService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/CountriesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/CountriesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneEditText.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneEditText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneField.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneInputLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneInputLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/ServiceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/ServiceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/AudioWife.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/AudioWife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/ViewProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/ViewProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/RetrofitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/RetrofitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/ListChatViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/ListChatViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/UsersViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/UsersViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/VisitorsViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/VisitorsViewHolder.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,99 +127,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ListChatViewHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/ListChatViewHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UsersViewHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/UsersViewHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VisitorsViewHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/VisitorsViewHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IInAppBillingService.aidl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bouncy_mapmaker.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/assets/bouncy_mapmaker.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_activity_about.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_activity_about.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_aroundme.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_aroundme.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChatAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/ChatAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="220">
+              <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2105,61 +2116,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseMessagingService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Firebase/FilterableFirebaseArray.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Firebase/FirebaseUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Helper/ActivityWithToolbar.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/GlideUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/ImageViewerActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Internet/CheckServer.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GPSTracker/GPSTracker.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GPSTracker/GPSTrackerListener.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/AddressComponent.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderGeometry.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderLocation.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderViewPort.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResponse.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResult.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/AroundMeLocationService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderResultAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/SettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivateModeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivacyActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/MyAccountActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/AboutActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UserProfile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UploadTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/MyProfile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/EditProfileActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/PrivateProfile/PrivateProfileActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/LocationAddress.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/Countries.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderResultAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/PassportActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/ChatList/ListChatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Location/LocationActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/UsersViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/UsersAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Activity/ChatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/MyVisitorsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/AroundMeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/SignUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/RetrofitService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/ViewProxy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/AudioWife.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/ServiceUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneInputLayout.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/CountriesAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/Country.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/ImageViewerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/GlideUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Firebase/FirebaseUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseMessagingService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseInstanceIDService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/FcmNotificationBuilder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoImageView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoContainer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/PhoneAuthActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/ForgotActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Welcome/WelcomeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipActivationActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipAccountActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/StoreActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResponse.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneEditText.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneField.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneInputLayout.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Base64.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Base64DecoderException.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/IabException.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/IabHelper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/IabResult.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/ImageUtils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Inventory.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Purchase.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Security.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/SkuDetails.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/Constants.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/ServiceUtils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/SharedPrefUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/Animation/View10.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/AudioWife.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/FrameLayoutFixed.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/ViewProxy.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/HumanTime.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/PushNotificationObject.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/RetrofitService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/Singleton.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/TravelActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/NearMeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/VisitorActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/ListChatViewHolder.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/UsersViewHolder.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/VisitorsViewHolder.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/HotOrHot/HotOrNotActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1022" />
@@ -2186,12 +2197,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -2359,21 +2370,21 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="5" />
-      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="2" sideWeight="0.50236964" side_tool="true" visible="true" weight="0.2761905" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50476193" side_tool="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50555557" side_tool="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Logcat" order="9" weight="0.3290938" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761905" />
-      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.4952381" visible="true" weight="0.3290938" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49763033" visible="true" weight="0.2761905" />
+      <window_info active="true" anchor="bottom" id="Build" order="10" sideWeight="0.49444443" visible="true" weight="0.3290938" />
       <window_info anchor="right" id="Gradle" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.32936507" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="7" side_tool="true" />
@@ -2392,362 +2403,376 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Internet/CheckServer.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/PrivacyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="-2303">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GPSTracker/GPSTracker.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/MyAccountActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="35">
+          <caret line="262" column="50" selection-start-line="262" selection-start-column="50" selection-end-line="262" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GPSTracker/GPSTrackerListener.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Settings/AboutActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="120">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/AddressComponent.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UserProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="331">
+          <caret line="673" column="39" lean-forward="true" selection-start-line="673" selection-start-column="39" selection-end-line="673" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderGeometry.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/UploadTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="71">
+          <caret line="160" column="82" selection-start-line="160" selection-start-column="82" selection-end-line="160" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderLocation.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/EditProfileActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="9776">
+          <caret line="857" column="80" lean-forward="true" selection-start-line="857" selection-start-column="80" selection-end-line="857" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResponse.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/PrivateProfile/PrivateProfileActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="-1100">
+          <caret line="247" column="84" selection-start-line="247" selection-start-column="84" selection-end-line="247" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResult.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Profile/MyProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" lean-forward="true" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderViewPort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/AroundMeLocationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        <state relative-caret-position="331">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/GeocoderResultAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        <state relative-caret-position="123">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/LocationAddress.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/PassportActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="243">
+          <caret line="489" column="103" selection-start-line="489" selection-start-column="103" selection-end-line="489" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/Countries.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/ChatList/ListChatActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="-2329">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/Country.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Location/LocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/CountriesAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneEditText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneInputLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-670">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Base64.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Base64DecoderException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/IabException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/IabHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/IabResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/ImageUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Purchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/Security.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Purchase/SkuDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/ServiceUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/SharedPrefUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/Animation/View10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/AudioWife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/FrameLayoutFixed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/ViewProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/HumanTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/PushNotificationObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/RetrofitService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/ListChatViewHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        <state relative-caret-position="123">
+          <caret line="362" column="98" selection-start-line="362" selection-start-column="98" selection-end-line="362" selection-end-column="98" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/UsersViewHolder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="123">
+          <caret line="136" column="28" selection-start-line="136" selection-start-column="28" selection-end-line="136" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/VisitorsViewHolder.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/UsersAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="48" column="71" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Messaging/Activity/ChatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="439" column="13" selection-start-line="439" selection-start-column="13" selection-end-line="439" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/MyVisitorsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/AroundMeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/SignUpActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/utils/RetrofitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/ViewProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/uiAudio/AudioWife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-803">
+          <caret line="719" column="42" selection-start-line="719" selection-start-column="42" selection-end-line="719" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/service/ServiceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneInputLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="38" column="83" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/CountriesAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/ImageViewerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1843">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Image/GlideUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1529">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Firebase/FirebaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseMessagingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="72" column="47" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/MyFirebaseInstanceIDService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/fcm/FcmNotificationBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/crescento/CrescentoContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/PhoneAuthActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="529" column="43" selection-start-line="529" selection-start-column="43" selection-end-line="529" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2603">
+          <caret line="367" column="82" selection-start-line="367" selection-start-column="82" selection-end-line="367" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Auth/ForgotActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3883">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Welcome/WelcomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipActivationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/VipAccountActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1000">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/VipAccount/StoreActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/Location/models/GeocoderResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneEditText.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/bouncy_mapmaker.json">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Utils/phonefield/PhoneField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_activity_about.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="940">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_aroundme.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/NearMe/NearMeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="1540">
+          <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/Adapters/ChatAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/MyVisitores/VisitorActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/ViewHolder/ListChatViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/HotOrHot/HotOrNotActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4300">
+          <caret line="261" column="21" selection-start-line="261" selection-start-column="21" selection-end-line="261" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="-189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aroundme/mostain/AroundMe/Passport/TravelActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
         </state>
       </provider>
     </entry>

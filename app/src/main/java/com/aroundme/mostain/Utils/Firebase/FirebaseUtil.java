@@ -2,7 +2,7 @@
 
 package com.aroundme.mostain.Utils.Firebase;
 
-import com.angopapo.aroundme2.Class.User;
+import com.aroundme.mostain.Class.User;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;

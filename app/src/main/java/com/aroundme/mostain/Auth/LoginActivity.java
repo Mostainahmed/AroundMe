@@ -25,11 +25,11 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.AroundMe.NearMe.AroundMeActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.service.Constants;
-import com.angopapo.aroundme2.Utils.service.SharedPrefUtil;
+import com.aroundme.mostain.AroundMe.NearMe.AroundMeActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.service.Constants;
+import com.aroundme.mostain.Utils.service.SharedPrefUtil;
 import com.facebook.AccessToken;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;

@@ -2,7 +2,7 @@ package com.aroundme.mostain.AroundMe.Messaging.Addon;
 
 import android.content.Context;
 
-import com.angopapo.aroundme2.Class.Chat;
+import com.aroundme.mostain.Class.Chat;
 
 
 public interface ChatContract {

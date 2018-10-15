@@ -28,9 +28,9 @@ import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Firebase.FirebaseUtil;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Firebase.FirebaseUtil;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;

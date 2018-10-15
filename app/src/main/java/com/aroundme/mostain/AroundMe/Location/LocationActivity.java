@@ -31,11 +31,11 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.AroundMe.NearMe.AroundMeActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.AroundMe.NearMe.AroundMeActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 import com.firebase.geofire.GeoFire;
 import com.firebase.geofire.GeoLocation;
 import com.google.android.gms.common.ConnectionResult;
@@ -62,7 +62,8 @@ import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.ArrayList;
 
-import static com.angopapo.aroundme2.App.Application.MY_GEOFIRE;
+import static com.aroundme.mostain.App.Application.MY_GEOFIRE;
+
 
 public class LocationActivity extends BaseActivity implements ActivityWithToolbar, OnMapReadyCallback, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, LocationListener, View.OnClickListener {
 

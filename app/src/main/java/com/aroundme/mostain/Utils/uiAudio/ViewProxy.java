@@ -10,7 +10,8 @@ package com.aroundme.mostain.Utils.uiAudio;
 
 import android.view.View;
 
-import com.angopapo.aroundme2.Utils.uiAudio.Animation.View10;
+import com.aroundme.mostain.Utils.uiAudio.Animation.View10;
+
 
 public class ViewProxy {
 

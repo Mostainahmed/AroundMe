@@ -1,4 +1,4 @@
-package com.angopapo.aroundme2.App;
+package com.aroundme.mostain.App;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,21 +6,23 @@ import android.content.Intent;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.angopapo.aroundme2.AroundMe.HotOrHot.HotOrNotActivity;
-import com.angopapo.aroundme2.AroundMe.Messaging.ChatList.ListChatActivity;
-import com.angopapo.aroundme2.AroundMe.MyVisitores.MyVisitorsActivity;
-import com.angopapo.aroundme2.AroundMe.MyVisitores.VisitorActivity;
-import com.angopapo.aroundme2.AroundMe.NearMe.AroundMeActivity;
-import com.angopapo.aroundme2.AroundMe.Passport.PassportActivity;
-import com.angopapo.aroundme2.AroundMe.Passport.TravelActivity;
-import com.angopapo.aroundme2.AroundMe.PrivateProfile.PrivateProfileActivity;
-import com.angopapo.aroundme2.AroundMe.Profile.MyProfile;
-import com.angopapo.aroundme2.AroundMe.Settings.SettingsActivity;
-import com.angopapo.aroundme2.Auth.LoginActivity;
-import com.angopapo.aroundme2.Class.User;
+
+import com.aroundme.mostain.AroundMe.HotOrHot.HotOrNotActivity;
+import com.aroundme.mostain.AroundMe.Messaging.ChatList.ListChatActivity;
+import com.aroundme.mostain.AroundMe.MyVisitores.MyVisitorsActivity;
+import com.aroundme.mostain.AroundMe.MyVisitores.VisitorActivity;
+import com.aroundme.mostain.AroundMe.NearMe.AroundMeActivity;
+import com.aroundme.mostain.AroundMe.Passport.PassportActivity;
+import com.aroundme.mostain.AroundMe.Passport.TravelActivity;
+import com.aroundme.mostain.AroundMe.PrivateProfile.PrivateProfileActivity;
+import com.aroundme.mostain.AroundMe.Profile.MyProfile;
+import com.aroundme.mostain.AroundMe.Settings.SettingsActivity;
+import com.aroundme.mostain.Auth.LoginActivity;
+import com.aroundme.mostain.Class.User;
 import com.aroundme.mostain.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
+
 import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 import com.bumptech.glide.Glide;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;

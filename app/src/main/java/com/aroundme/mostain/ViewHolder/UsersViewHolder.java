@@ -24,11 +24,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.App.Application;
-import com.angopapo.aroundme2.AroundMe.Profile.UserProfile;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Image.GlideUtil;
+import com.aroundme.mostain.App.Application;
+import com.aroundme.mostain.AroundMe.Profile.UserProfile;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Image.GlideUtil;
 
 import java.util.List;
 public class UsersViewHolder extends RecyclerView.ViewHolder{

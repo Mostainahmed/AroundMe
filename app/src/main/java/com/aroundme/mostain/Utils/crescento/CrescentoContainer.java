@@ -19,7 +19,7 @@ import android.view.View;
 import android.view.ViewOutlineProvider;
 import android.widget.RelativeLayout;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
 
 
 public class CrescentoContainer extends RelativeLayout {

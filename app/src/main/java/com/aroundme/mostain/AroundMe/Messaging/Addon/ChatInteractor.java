@@ -2,11 +2,11 @@ package com.aroundme.mostain.AroundMe.Messaging.Addon;
 
 import android.content.Context;
 
-import com.angopapo.aroundme2.Class.Chat;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.Utils.fcm.FcmNotificationBuilder;
-import com.angopapo.aroundme2.Utils.service.Constants;
-import com.angopapo.aroundme2.Utils.service.SharedPrefUtil;
+import com.aroundme.mostain.Class.Chat;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.Utils.fcm.FcmNotificationBuilder;
+import com.aroundme.mostain.Utils.service.Constants;
+import com.aroundme.mostain.Utils.service.SharedPrefUtil;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

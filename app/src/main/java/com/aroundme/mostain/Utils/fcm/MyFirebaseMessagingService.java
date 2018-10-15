@@ -9,11 +9,11 @@ import android.net.Uri;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
-import com.angopapo.aroundme2.App.Application;
-import com.angopapo.aroundme2.AroundMe.Messaging.Activity.ChatActivity;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.events.PushNotificationEvent;
-import com.angopapo.aroundme2.Utils.service.Constants;
+import com.aroundme.mostain.App.Application;
+import com.aroundme.mostain.AroundMe.Messaging.Activity.ChatActivity;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.events.PushNotificationEvent;
+import com.aroundme.mostain.Utils.service.Constants;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 

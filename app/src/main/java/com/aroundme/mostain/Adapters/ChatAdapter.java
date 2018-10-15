@@ -20,12 +20,13 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.AroundMe.Messaging.Activity.ImageViewerActivity;
-import com.angopapo.aroundme2.Class.Chat;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.service.Constants;
-import com.angopapo.aroundme2.Utils.uiAudio.AudioWife;
+
+import com.aroundme.mostain.AroundMe.Messaging.Activity.ImageViewerActivity;
+import com.aroundme.mostain.Class.Chat;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.service.Constants;
+import com.aroundme.mostain.Utils.uiAudio.AudioWife;
 import com.bumptech.glide.Glide;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

@@ -9,7 +9,8 @@ import android.widget.ImageView;
 import android.widget.SpinnerAdapter;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.R;
+
+import com.aroundme.mostain.R;
 
 import java.util.List;
 

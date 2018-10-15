@@ -12,9 +12,9 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.LinearLayout;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 
 
 public class VipAccountActivity extends BaseActivity implements ActivityWithToolbar, GridView.OnItemClickListener, View.OnClickListener {

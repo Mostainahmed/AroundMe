@@ -3,7 +3,7 @@ package com.aroundme.mostain.Utils.service;
 import android.content.Context;
 import android.net.ConnectivityManager;
 
-import com.angopapo.aroundme2.Class.User;
+import com.aroundme.mostain.Class.User;
 import com.google.firebase.database.FirebaseDatabase;
 
 

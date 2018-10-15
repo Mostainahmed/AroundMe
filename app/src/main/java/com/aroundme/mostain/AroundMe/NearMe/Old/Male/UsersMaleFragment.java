@@ -20,12 +20,12 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.AroundMe.NearMe.Old.NewUsersViewHolder;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Firebase.FilterableFirebaseArray;
-import com.angopapo.aroundme2.Utils.Internet.CheckServer;
-import com.angopapo.aroundme2.Utils.service.ServiceUtils;
+import com.aroundme.mostain.AroundMe.NearMe.Old.NewUsersViewHolder;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Firebase.FilterableFirebaseArray;
+import com.aroundme.mostain.Utils.Internet.CheckServer;
+import com.aroundme.mostain.Utils.service.ServiceUtils;
 import com.firebase.ui.database.ClassSnapshotParser;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DataSnapshot;

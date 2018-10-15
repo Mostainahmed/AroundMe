@@ -20,12 +20,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.App.NavigationDrawer;
-import com.angopapo.aroundme2.AroundMe.Messaging.Activity.ImageViewerActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.App.NavigationDrawer;
+import com.aroundme.mostain.AroundMe.Messaging.Activity.ImageViewerActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;

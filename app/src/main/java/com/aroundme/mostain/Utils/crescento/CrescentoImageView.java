@@ -23,7 +23,7 @@ import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewOutlineProvider;
 
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.R;
 
 
 public class CrescentoImageView extends AppCompatImageView {

@@ -40,7 +40,8 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.R;
+
+import com.aroundme.mostain.R;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -356,7 +357,7 @@ public class AudioWife {
 
 	/***
 	 * Initialize the audio player. This method should be the first one to be called before starting
-	 * to play audio using {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife}
+	 * to play audio using {@link com.aroundme.mostain.Utils.uiAudio.AudioWife}
 	 *
 	 * @param ctx
 	 *            {@link Activity} Context
@@ -386,7 +387,7 @@ public class AudioWife {
 	 * Sets the audio play functionality on click event of this view. You can set {@link Button} or
 	 * an {@link ImageView} as audio play control
 	 * 
-	 * @see com.angopapo.aroundme2.Utils.uiAudio.AudioWife#addOnPauseClickListener(View.OnClickListener)
+	 * @see com.aroundme.mostain.Utils.uiAudio.AudioWife#addOnPauseClickListener(View.OnClickListener)
 	 ****/
 	public AudioWife setPlayView(View play) {
 
@@ -438,7 +439,7 @@ public class AudioWife {
 	 * can set {@link Button} or an {@link ImageView} as audio pause control. Audio pause
 	 * functionality will be unavailable if this method is not called.
 	 * 
-	 * @see com.angopapo.aroundme2.Utils.uiAudio.AudioWife#addOnPauseClickListener(View.OnClickListener)
+	 * @see com.aroundme.mostain.Utils.uiAudio.AudioWife#addOnPauseClickListener(View.OnClickListener)
 	 ****/
 	public AudioWife setPauseView(View pause) {
 
@@ -486,8 +487,8 @@ public class AudioWife {
 	}
 
 	/***
-	 * @deprecated Use {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setRuntimeView(TextView)} and
-	 *             {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setTotalTimeView(TextView)} instead. <br/>
+	 * @deprecated Use {@link com.aroundme.mostain.Utils.uiAudio.AudioWife#setRuntimeView(TextView)} and
+	 *             {@link com.aroundme.mostain.Utils.uiAudio.AudioWife#setTotalTimeView(TextView)} instead. <br/>
 	 *             Sets current and total playback time. Use this if you have a playback time
 	 *             counter in the UI.
 	 ****/
@@ -508,7 +509,7 @@ public class AudioWife {
 	/***
 	 * Sets current playback time view. Use this if you have a playback time counter in the UI.
 	 * 
-	 * @see com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setTotalTimeView(TextView)
+	 * @see com.aroundme.mostain.Utils.uiAudio.AudioWife#setTotalTimeView(TextView)
 	 ****/
 	public AudioWife setRuntimeView(TextView currentTime) {
 
@@ -527,7 +528,7 @@ public class AudioWife {
 	/***
 	 * Sets the total playback time view. Use this if you have a playback time counter in the UI.
 	 * 
-	 * @see com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setRuntimeView(TextView)
+	 * @see com.aroundme.mostain.Utils.uiAudio.AudioWife#setRuntimeView(TextView)
 	 ****/
 	public AudioWife setTotalTimeView(TextView totalTime) {
 
@@ -688,9 +689,9 @@ public class AudioWife {
 	 * 
 	 * <br/>
 	 * This is the simplest way to get AudioWife working for you. If you are using the default
-	 * player provided by this method, calling method {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setPlayView(View)},
-	 * {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setPauseView(View)}, {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setSeekBar(SeekBar)},
-	 * {@link com.angopapo.aroundme2.Utils.uiAudio.AudioWife#setPlaytime(TextView)} will have no effect.
+	 * player provided by this method, calling method {@link com.aroundme.mostain.Utils.uiAudio.AudioWife#setPlayView(View)},
+	 * {@link com.aroundme.mostain.Utils.uiAudio.AudioWife#setPauseView(View)}, {@link com.aroundme.mostain.Utils.uiAudio.AudioWife#setSeekBar(SeekBar)},
+	 * {@link com.aroundme.mostain.Utils.uiAudio.AudioWife#setPlaytime(TextView)} will have no effect.
 	 * 
 	 * <br/>
 	 * <br/>

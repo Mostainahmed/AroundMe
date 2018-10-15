@@ -24,9 +24,9 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.AroundMe.Profile.UserProfile;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Image.GlideUtil;
+import com.aroundme.mostain.AroundMe.Profile.UserProfile;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Image.GlideUtil;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.ValueEventListener;
 

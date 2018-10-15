@@ -40,9 +40,9 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.animation.GlideAnimation;

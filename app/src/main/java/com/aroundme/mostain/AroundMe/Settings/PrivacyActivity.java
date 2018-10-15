@@ -15,10 +15,11 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
-import com.angopapo.aroundme2.Utils.Internet.CheckServer;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.Utils.Internet.CheckServer;
+
 
 public class PrivacyActivity extends BaseActivity implements ActivityWithToolbar, View.OnClickListener {
 

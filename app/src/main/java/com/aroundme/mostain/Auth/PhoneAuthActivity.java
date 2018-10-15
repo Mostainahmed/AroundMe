@@ -35,12 +35,12 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
-import com.angopapo.aroundme2.Utils.phonefield.PhoneEditText;
-import com.angopapo.aroundme2.Utils.service.Constants;
-import com.angopapo.aroundme2.Utils.service.SharedPrefUtil;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.Utils.phonefield.PhoneEditText;
+import com.aroundme.mostain.Utils.service.Constants;
+import com.aroundme.mostain.Utils.service.SharedPrefUtil;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;

@@ -15,11 +15,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.angopapo.aroundme2.App.Application;
-import com.angopapo.aroundme2.AroundMe.NearMe.Both.UsersBothFragment;
-import com.angopapo.aroundme2.AroundMe.NearMe.Matchs.UsersMatchsFragment;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
+import com.aroundme.mostain.App.Application;
+import com.aroundme.mostain.AroundMe.NearMe.Both.UsersBothFragment;
+import com.aroundme.mostain.AroundMe.NearMe.Matchs.UsersMatchsFragment;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.firebase.database.DataSnapshot;

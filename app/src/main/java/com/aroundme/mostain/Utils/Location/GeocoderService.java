@@ -1,6 +1,7 @@
 package com.aroundme.mostain.Utils.Location;
 
-import com.angopapo.aroundme2.Utils.Location.models.GeocoderResponse;
+
+import com.aroundme.mostain.Utils.Location.models.GeocoderResponse;
 
 import retrofit.Call;
 import retrofit.http.GET;

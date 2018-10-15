@@ -7,8 +7,9 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Location.models.GeocoderResult;
+
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Location.models.GeocoderResult;
 
 import java.util.List;
 

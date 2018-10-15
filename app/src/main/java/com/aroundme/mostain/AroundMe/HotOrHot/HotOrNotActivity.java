@@ -22,15 +22,15 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.Adapters.HotOrnotAdapter;
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.App.NavigationDrawer;
-import com.angopapo.aroundme2.AroundMe.Profile.EditProfileActivity;
-import com.angopapo.aroundme2.AroundMe.Profile.UserProfile;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
-import com.angopapo.aroundme2.Utils.Internet.CheckServer;
+import com.aroundme.mostain.Adapters.HotOrnotAdapter;
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.App.NavigationDrawer;
+import com.aroundme.mostain.AroundMe.Profile.EditProfileActivity;
+import com.aroundme.mostain.AroundMe.Profile.UserProfile;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.Utils.Internet.CheckServer;
 import com.bumptech.glide.Glide;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.ChildEventListener;
@@ -50,7 +50,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 public class HotOrNotActivity extends BaseActivity implements ActivityWithToolbar {
     private User cards_data[];
-    private com.aroundme.mostain.Adapters.HotOrnotAdapter HotOrnotAdapter;
+    private HotOrnotAdapter hotOrnotAdapter;
     private int i;
 
     private FirebaseAuth mAuth;
@@ -158,17 +158,17 @@ public class HotOrNotActivity extends BaseActivity implements ActivityWithToolba
 
         rowItems = new ArrayList<User>();
 
-        HotOrnotAdapter = new HotOrnotAdapter(this, R.layout.item, rowItems );
+        hotOrnotAdapter = new HotOrnotAdapter(this, R.layout.item, rowItems );
 
         SwipeFlingAdapterView flingContainer = (SwipeFlingAdapterView) findViewById(R.id.frame);
 
-        flingContainer.setAdapter(HotOrnotAdapter);
+        flingContainer.setAdapter(hotOrnotAdapter);
         flingContainer.setFlingListener(new SwipeFlingAdapterView.onFlingListener() {
             @Override
             public void removeFirstObjectInAdapter() {
                 Log.d("LIST", "removed object!");
                 rowItems.remove(0);
-                HotOrnotAdapter.notifyDataSetChanged();
+                hotOrnotAdapter.notifyDataSetChanged();
             }
 
             @Override
@@ -296,7 +296,7 @@ public class HotOrNotActivity extends BaseActivity implements ActivityWithToolba
                         if (item != null && item.getPhotoUrl() != null) {
 
                             rowItems.add(item);
-                            HotOrnotAdapter.notifyDataSetChanged();
+                            hotOrnotAdapter.notifyDataSetChanged();
 
                         }
 
@@ -325,19 +325,19 @@ public class HotOrNotActivity extends BaseActivity implements ActivityWithToolba
             public void onChildChanged(DataSnapshot dataSnapshot, String s) {
 
 
-                HotOrnotAdapter.notifyDataSetChanged();
+                hotOrnotAdapter.notifyDataSetChanged();
 
             }
             @Override
             public void onChildRemoved(DataSnapshot dataSnapshot) {
 
-                HotOrnotAdapter.notifyDataSetChanged();
+                hotOrnotAdapter.notifyDataSetChanged();
             }
 
             @Override
             public void onChildMoved(DataSnapshot dataSnapshot, String s) {
 
-                HotOrnotAdapter.notifyDataSetChanged();
+                hotOrnotAdapter.notifyDataSetChanged();
             }
             @Override
             public void onCancelled(DatabaseError databaseError) {

@@ -8,10 +8,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.service.ServiceUtils;
-import com.angopapo.aroundme2.ViewHolder.UsersViewHolder;
+
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.service.ServiceUtils;
+import com.aroundme.mostain.ViewHolder.UsersViewHolder;
 
 import org.joda.time.LocalDate;
 import org.joda.time.Period;
@@ -21,7 +22,7 @@ import java.util.List;
 import java.util.Locale;
 
 import static android.content.Context.MODE_PRIVATE;
-import static com.angopapo.aroundme2.App.Application.MY_GEOFIRE;
+import static com.aroundme.mostain.App.Application.MY_GEOFIRE;
 
 public class UsersAdapter extends RecyclerView.Adapter<UsersViewHolder> {
 

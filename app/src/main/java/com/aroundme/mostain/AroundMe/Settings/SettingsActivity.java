@@ -22,13 +22,10 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.angopapo.aroundme2.App.DispatchActivity;
-import com.angopapo.aroundme2.App.NavigationDrawer;
-import com.angopapo.aroundme2.AroundMe.Profile.UserProfile;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
-import com.angopapo.aroundme2.Utils.service.Constants;
+import com.aroundme.mostain.App.DispatchActivity;
+import com.aroundme.mostain.App.NavigationDrawer;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 import com.facebook.login.LoginManager;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

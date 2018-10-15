@@ -2,7 +2,7 @@ package com.aroundme.mostain.Utils.Location.models;
 
 import android.text.TextUtils;
 
-import com.angopapo.aroundme2.Utils.Location.GeocoderService;
+import com.aroundme.mostain.Utils.Location.GeocoderService;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

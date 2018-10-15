@@ -1,6 +1,8 @@
 package com.aroundme.mostain.AroundMe.Passport;
 
 import android.app.Activity;
+import com.aroundme.mostain.App.Application;
+
 import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -20,14 +22,14 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.angopapo.aroundme2.App.Application;
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.App.NavigationDrawer;
-import com.angopapo.aroundme2.AroundMe.Profile.EditProfileActivity;
-import com.angopapo.aroundme2.AroundMe.VipAccount.StoreActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
+
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.App.NavigationDrawer;
+import com.aroundme.mostain.AroundMe.Profile.EditProfileActivity;
+import com.aroundme.mostain.AroundMe.VipAccount.StoreActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.tasks.OnCompleteListener;

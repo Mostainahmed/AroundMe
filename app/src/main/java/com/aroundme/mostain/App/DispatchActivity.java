@@ -5,9 +5,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.angopapo.aroundme2.AroundMe.NearMe.AroundMeActivity;
-import com.angopapo.aroundme2.Auth.LoginActivity;
-import com.angopapo.aroundme2.Class.User;
+import com.aroundme.mostain.AroundMe.NearMe.AroundMeActivity;
+import com.aroundme.mostain.Auth.LoginActivity;
+import com.aroundme.mostain.Class.User;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 

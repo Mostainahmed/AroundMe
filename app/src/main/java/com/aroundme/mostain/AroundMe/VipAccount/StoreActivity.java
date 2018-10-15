@@ -21,15 +21,16 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.android.vending.billing.IInAppBillingService;
-import com.angopapo.aroundme2.App.BaseActivity;
-import com.angopapo.aroundme2.AroundMe.Profile.EditProfileActivity;
-import com.angopapo.aroundme2.Class.User;
-import com.angopapo.aroundme2.R;
-import com.angopapo.aroundme2.Utils.Helper.ActivityWithToolbar;
-import com.angopapo.aroundme2.Utils.Purchase.IabHelper;
-import com.angopapo.aroundme2.Utils.Purchase.IabResult;
-import com.angopapo.aroundme2.Utils.Purchase.Inventory;
-import com.angopapo.aroundme2.Utils.Purchase.Purchase;
+
+import com.aroundme.mostain.App.BaseActivity;
+import com.aroundme.mostain.AroundMe.Profile.EditProfileActivity;
+import com.aroundme.mostain.Class.User;
+import com.aroundme.mostain.R;
+import com.aroundme.mostain.Utils.Helper.ActivityWithToolbar;
+import com.aroundme.mostain.Utils.Purchase.IabHelper;
+import com.aroundme.mostain.Utils.Purchase.IabResult;
+import com.aroundme.mostain.Utils.Purchase.Inventory;
+import com.aroundme.mostain.Utils.Purchase.Purchase;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.database.DataSnapshot;
