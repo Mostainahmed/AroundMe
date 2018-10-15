@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721031904363",
+    "firebase_url": "https://aroundme-c9d98.firebaseio.com",
+    "project_id": "aroundme-c9d98",
+    "storage_bucket": "aroundme-c9d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721031904363:android:d9cc323b6f1f70f2",
+        "android_client_info": {
+          "package_name": "com.aroundme.mostain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721031904363-0r9j7mk076e8dbh582lnl7afon54fa5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOTRimTs6tEqfpvVduBLNdKt34ylW5R_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.angopapo.aroundme2.Profile.UserProfile">
+    <item
+        android:id="@+id/report_profile"
+        android:icon="@drawable/ic_report_white_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="Report Profile">
+    </item>
+</menu>

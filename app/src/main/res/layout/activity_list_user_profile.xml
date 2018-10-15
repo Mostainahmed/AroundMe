@@ -1,0 +1,457 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:layout_below="@+id/linearLayout16"
+    android:layout_above="@+id/linearLayout17">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#f0f0f4"
+            android:paddingBottom="2dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="2dp"
+            android:text="@string/basic_information"
+            android:textColor="#868686"
+            android:textSize="15sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.angopapo.aroundme2.Utils.customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about_me"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/i111"
+                android:layout_toEndOf="@+id/i111"
+                android:padding="2sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/i111"
+                android:layout_marginLeft="12dp"
+                android:layout_toEndOf="@+id/i111"
+                android:layout_toRightOf="@+id/i111"
+                android:background="#00000000"
+                android:padding="2dp"
+                android:textColor="@color/gray4"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/i111"
+                android:src="@drawable/info"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:alpha="0.7" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="20dp"
+                android:background="@color/gray3"
+                android:layout_gravity="right"
+                android:layout_below="@+id/i111"
+                android:layout_alignLeft="@+id/i111"
+                android:layout_alignStart="@+id/i111"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#ACACAC"/>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.angopapo.aroundme2.Utils.customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/birthday2"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/i1"
+                android:layout_toEndOf="@+id/i1"
+                android:padding="2sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/birthday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/i1"
+                android:layout_marginLeft="12dp"
+                android:layout_toEndOf="@+id/i1"
+                android:layout_toRightOf="@+id/i1"
+                android:background="#00000000"
+                android:textColorHint="@color/gray4"
+                android:hint="@string/indefined"
+                android:padding="2dp"
+                android:textColor="@color/gray4"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/i1"
+                android:src="@drawable/birthday"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:alpha="0.7" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="20dp"
+                android:background="@color/gray3"
+                android:layout_gravity="right"
+                android:layout_below="@+id/i1"
+                android:layout_alignLeft="@+id/i1"
+                android:layout_alignStart="@+id/i1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#ACACAC"
+            android:layout_gravity="right"
+            android:layout_marginLeft="40dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.angopapo.aroundme2.Utils.customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Location"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/i2"
+                android:layout_toEndOf="@+id/i2"
+                android:padding="2sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/i2"
+                android:layout_marginLeft="12dp"
+                android:layout_toRightOf="@+id/i2"
+                android:background="#00000000"
+                android:padding="2dp"
+                android:textColor="@color/gray4"
+                android:textSize="14sp"
+                android:layout_toLeftOf="@+id/imageView6"
+                android:layout_toStartOf="@+id/imageView6" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/i2"
+                android:src="@drawable/marker_100"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:alpha="0.7" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="20dp"
+                android:background="#ACACAC"
+                android:layout_gravity="right"
+                android:layout_below="@+id/i2"
+                android:layout_alignLeft="@+id/i2"
+                android:layout_alignStart="@+id/i2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:alpha="0.5"
+                app:srcCompat="@drawable/ic_mode_edit_black_24dp" />
+        </RelativeLayout>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/personal_informations"
+            android:textColor="#868686"
+            android:textSize="15sp"
+            android:background="#f0f0f4"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="10dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#ACACAC"/>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.angopapo.aroundme2.Utils.customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/status2"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/i5"
+                android:layout_toEndOf="@id/i5"
+                android:padding="2sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/i5"
+                android:layout_marginLeft="12dp"
+                android:layout_toEndOf="@id/i5"
+                android:layout_toRightOf="@+id/i5"
+                android:background="#00000000"
+                android:padding="2dp"
+                android:textColor="@color/gray4"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/i5"
+                android:src="@drawable/couple_100"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:alpha="0.7" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="20dp"
+                android:background="@color/gray3"
+                android:layout_gravity="right"
+                android:layout_below="@+id/i5"
+                android:layout_alignLeft="@+id/i5"
+                android:layout_alignStart="@+id/i5"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/status"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:alpha="0.5"
+                app:srcCompat="@drawable/ic_mode_edit_black_24dp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#ACACAC"
+            android:layout_gravity="right"
+            android:layout_marginLeft="40dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.angopapo.aroundme2.Utils.customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/oriantation"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/i6"
+                android:layout_toEndOf="@+id/i6"
+                android:padding="2sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:textColor="@color/gray3"
+                android:textSize="14sp"
+                android:id="@+id/oriantation"
+                android:layout_below="@+id/i6"
+                android:layout_toRightOf="@+id/i6"
+                android:layout_toEndOf="@+id/i6"
+                android:padding="2dp"
+                android:layout_marginLeft="12dp" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/i6"
+                android:src="@drawable/genderqueer_100"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:alpha="0.7" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="20dp"
+                android:background="#ACACAC"
+                android:layout_gravity="right"
+                android:layout_below="@+id/i6"
+                android:layout_alignLeft="@+id/i6"
+                android:layout_alignStart="@+id/i6"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/oriantation"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:alpha="0.5"
+                app:srcCompat="@drawable/ic_mode_edit_black_24dp" />
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#ACACAC"
+            android:layout_gravity="right"
+            android:layout_marginLeft="40dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.angopapo.aroundme2.Utils.customfonts.MyTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sexuality"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/i7"
+                android:layout_toEndOf="@+id/i7"
+                android:padding="2sp"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:textColor="@color/gray3"
+                android:textSize="14sp"
+                android:id="@+id/sexuality"
+                android:layout_below="@+id/i7"
+                android:layout_toRightOf="@+id/i7"
+                android:layout_toEndOf="@+id/i7"
+                android:padding="2dp"
+                android:layout_marginLeft="12dp" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/i7"
+                android:src="@drawable/date_100"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:alpha="0.7" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="20dp"
+                android:background="#ACACAC"
+                android:layout_gravity="right"
+                android:layout_below="@+id/i7"
+                android:layout_alignStart="@+id/i7"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="3dp"
+                android:layout_alignLeft="@+id/i7" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/sexuality"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:alpha="0.5"
+                app:srcCompat="@drawable/ic_mode_edit_black_24dp" />
+
+
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="#ACACAC"
+            android:layout_gravity="right" />
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

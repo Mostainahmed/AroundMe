@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/married"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/married"
+        />
+    <item
+        android:title="@string/dating"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/dating"
+        />
+    <item
+        android:title="@string/sigle"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/sigle"
+        />
+
+</menu>

@@ -1,0 +1,117 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/alizarin</item>
+        <item name="colorPrimaryDark">@color/alizarin_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="windowActionModeOverlay">true</item>
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/alizarin</item>
+        <item name="colorPrimaryDark">@color/alizarin_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="windowActionModeOverlay">true</item>
+
+    </style>
+
+    <style name="Theme.App.Black" parent="@style/AppTheme">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="homeAsUpIndicator">@drawable/ic_back_24dp</item>
+    </style>
+
+    <style name="CustomTheme" parent="MaterialDrawerTheme">
+        <!-- ...and here we setting appcompat’s color theming attrs -->
+        <item name="colorPrimary">@color/alizarin</item>
+        <item name="colorPrimaryDark">@color/alizarin_dark</item>
+        <item name="colorAccent">@color/alizarin</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:color">#fff</item>
+        <item name="android:textColorSecondary">#fff</item>
+        <item name="android:colorBackground">@color/light_background_color</item>
+        <item name="searchViewStyle">@style/AppSearchViewStyle</item>
+
+        <!-- MaterialDrawer specific values -->
+        <item name="material_drawer_background">@android:color/white</item>
+        <!--<item name="material_drawer_icons">@color/material_drawer_icons</item>-->
+        <item name="material_drawer_primary_text">@color/material_drawer_primary_text</item>
+        <item name="material_drawer_primary_icon">@color/material_drawer_primary_icon</item>
+        <item name="material_drawer_secondary_text">@color/material_drawer_secondary_text</item>
+        <item name="material_drawer_hint_text">@color/material_drawer_hint_text</item>
+        <item name="material_drawer_divider">@color/material_drawer_divider</item>
+        <item name="material_drawer_selected">@color/alizarin</item>
+        <item name="material_drawer_selected_text">#fff</item>
+        <item name="material_drawer_header_selection_text">@color/material_drawer_header_selection_text</item>
+    </style>
+
+    <style name="EditTextAlizarinStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">#f9375e</item>
+        <item name="colorControlActivated">#e74c3c</item>
+        <item name="colorControlHighlight">#e74c3c</item>
+        <item name="android:textColorPrimary">#e74c3c</item>
+        <item name="android:textColorHint">#e78578</item>
+    </style>
+
+    <style name="AppSearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="queryBackground">@android:color/transparent</item>
+        <item name="searchIcon">@drawable/ic_search_24_0_white</item>
+        <item name="closeIcon">@drawable/ic_clear_24_0_white</item>
+        <item name="queryHint">Enter address...</item>
+        <item name="android:imeActionId">6</item>
+    </style>
+
+    <style name="WelcomeContentAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/welcome_content</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="DialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorSecondary">@color/alizarin</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@color/white</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog_style</item>
+    </style>
+
+    <style name="MyAppCompatDialogTheme" parent="CustomTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/rounded_border_shape</item>
+    </style>
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <!--<item name="tabMaxWidth">@dimen/tab_max_width</item>-->
+        <item name="tabIndicatorColor">@color/white</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabPaddingStart">12dp</item>
+        <item name="tabPaddingEnd">12dp</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+    </style>
+
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/gray1</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <!-- Phone number login -->
+
+    <!-- Base application theme. -->
+
+
+</resources>

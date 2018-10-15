@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.angopapo.aroundme2.Profile.MyProfile">
+    <item
+        android:id="@+id/edit_profile"
+        android:icon="@drawable/ic_mode_edit_white_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="Edit Profile">
+    </item>
+</menu>

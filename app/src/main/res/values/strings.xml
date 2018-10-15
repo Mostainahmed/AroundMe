@@ -1,0 +1,300 @@
+<resources>
+        <string name="app_name">AroundMe Firebase</string>
+        <string name="ak_login_protocol_scheme">ak891799014307109</string>
+        <string name="facebook_app_id">891799014307109</string>
+    <string name="google_api_key_geo">AIzaSyDuYsM7za_GzW2ca8UqwCd_3-EkCUacMPo</string>
+        <string name="FCM_KEY">AAAATegXd4w:APA91bE_RRy4w4s8aDSJHIeiJPn8xDoKzlSDyTBespBNSSPRMF2iX-VdHkvbdkLSXkyA07NBphPp2MIv1Al2Bhf_I4s_XSvsScVdgiQt4RRDZpyQGN7c-ITrQP7t9UAgmdTGfSQllx5F</string>
+        <string name="play_market_open_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqh2vEw18FYa5+Cu+2GLnU86PJvrSOEVUa2AaPYJ/Ti8Xhrj9+FXSmbTeizEbCA0zfLG4l6+g6YNhTbrvq3Hc3tHwWPy/M30q6yrC0bqp5UZx61k7guqcyhZ6IZLfAkgLMuykL9yrcO2aZVX3akeStD4yakNJEfaHeWKj0GQ5lK5sT2MzwZa5v2FWx1p8Xi6tPKXpJzU3jKrZaI3kqCrmV+kgbIuV3d21dWpqb/civcaBaXhs6sXe7NYX4Jm8Ws2p9dr72Ld7oLd6BfU1pTKTHjd+bHdAVYjXYP6LbVaIjvBwjPvy1x5S6Av1Tv8gZmRzLqHdPgkCjK9EZSVM1b9FdQIDAQAB</string>
+        <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+        <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+        <string name="enable_ads">true</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+        <!--
+            This is the name that users will see when interacting with this channel.
+            It should describe the category of notifications that will be sent through this channel
+         -->
+
+    <!-- Messages Strings -->
+    <string name="dialog_title_select_image">Choose an image…</string>
+
+    <!-- Log Messages -->
+
+    <string name="drawer_item_visitors">Visitors</string>
+        <string name="drawer_item_around_me">Around Me</string>
+        <string name="drawer_item_hot_or_not">Hot or Not</string>
+        <string name="drawer_item_messaging">Messaging</string>
+
+    <string name="splash_loading">Loading…</string>
+        <string name="signup_male">Male</string>
+        <string name="signup_female">Female</string>
+        <string name="signup_gender">Select Gender</string>
+        <string name="signup_gender_explzin">Sorry, but you must specify your gender (If you are Male or Female)</string>
+
+
+    <string name="loc_cant">Can\'t connect. Verify your internet</string>
+
+    <string name="signup_accept">By clicking the \"create account\" button, you are accepting our </string>
+        <string name="terms"><![CDATA[<a href=\'http://www.angopapo.com/terms\'> Terms of use </a>]]></string>
+        <string name="privacy"><![CDATA[<a href=\'http://www.angopapo.com/privacy\'> Privacy policy </a>]]></string>
+        <string name="google_api">http://maps.google.com</string>
+        <string name="and">and our</string>
+        <string name="terms_title2">Terms of use</string>
+        <string name="privacy_title2">Privacy Policy</string>
+
+    <string name="go_to_the_store">Go to the store</string>
+        <string name="cost_100_credits">Costs 100 credits but also available for VIP Subscriptions</string>
+        <string name="private_mode">First upgrade and then you will be able to set your profile private or public when you want</string>
+        <string name="first_activete">First active and then you will be able to travel to any city in the world</string>
+        <string name="first_activete1">First active and then you will be able to see every one that visited your profile</string>
+        <string name="you_have_not">You have not activated passport yet</string>
+        <string name="you_have_not2">You have not activated private yet</string>
+        <string name="you_have_not1">You have not activated visitors yet</string>
+        <string name="vip_activte">Activate</string>
+
+    <string name="login_email">Username</string>
+    <string name="SignUp_username">Username</string>
+        <string name="SignUp_email">Your Email</string>
+        <string name="SignUp_password">Password</string>
+        <string name="SignUp_create">Create Account</string>
+        <string name="SignUp_alredy">Already a registered? Login</string>
+        <string name="forgot_lost">PASSWORD LOST?</string>
+        <string name="forgot_dont">Don\'t worry, just enter the email you used to register truth AroundMe</string>
+        <string name="forgot_reset">Reset Password</string>
+        <string name="forgot_remember">Remember your password? Login</string>
+    <string name="login_auth2">Authenticating…</string>
+    <string name="login_verify">VERIFY</string>
+    <string name="login_ok">OK</string>
+    <string name="login_no_int">No internet connection. Please Connect</string>
+        <string name="login_press_again">Press back again to exit</string>
+        <string name="login_missi">Missing same fields. Please verify</string>
+        <string name="login_email_at">At least 3 characters</string>
+        <string name="login_pass_at">At least 6 alphanumeric characters</string>
+        <string name="signup_creat">Creating Account…</string>
+        <string name="signup_yh">"Yh, i'm using AroundMe it's great "</string>
+    <string name="signup_pass_atl">At least 6 alphanumeric characters</string>
+        <string name="signup_valid_email">Enter a valid email address</string>
+        <string name="signup_user_at">At least 3 characters</string>
+        <string name="signup_name_at">At least 3 characters</string>
+    <string name="forgot_veri">Verifying your email…</string>
+        <string name="forgot_send">Email send. Congratulations</string>
+        <string name="forgot_check">Check your email inbox to reset the your account password</string>
+        <string name="forgot_em_not">"Email not Found "</string>
+        <string name="forgot_email_wasnt">Your email wasn\'t found in our server, please verify or create a new account</string>
+        <string name="forgot_register">REGISTER</string>
+        <string name="forgot_valid_email">Enter a valid email address</string>
+    <string name="forgot_login">Login</string>
+        <string name="around">AroundMe</string>
+        <string name="me"> Firebase</string>
+
+    <string name="profile_title">My profile</string>
+
+    <string name="basic_information">Basic information</string>
+
+    <string name="wait_int">Internet connection is not available</string>
+        <string name="wait_wait">Wait for internet connection</string>
+    <string name="offline_mode">No internet connection</string>
+    <string name="match_travel_now">TRAVEL NOW</string>
+        <string name="usernear_update_loc">UPDATE LOCATION</string>
+        <string name="meetings_usernot">Sorry, no user was found. This may happen when your location is outdated or when there is no one in your area. Update your location or use travel now</string>
+
+        <string name="drawer_item_visitor">Visitors</string>
+        <string name="drawer_item_passport">Passport</string>
+        <string name="VIP">VIP ACCOUNT</string>
+
+    <string name="settings_no_inte">No internet. Connect and try again</string>
+
+    <string name="my_account">My Account</string>
+        <string name="basic_information2">My Account</string>
+        <string name="edit_username_phone_password_and_others">VIP Member, Location and others</string>
+
+        <string name="settings_loging">logging out</string>
+        <string name="settings_log_are">Are you sure you want to logout?</string>
+        <string name="settings_log_yes">Yes</string>
+        <string name="settings_log_yes2">Logging out…</string>
+
+        <string name="invite_friends_header2">Share AroundMe in your favorites social networks, and get more friends!</string>
+
+        <string name="invite_friends_footer"><u>No, thanks</u></string>
+
+        <string name="invite_friends_toast_after_share">You are sending the AroundMe Google Play url</string>
+        <string name="invite_friends_share_chooser">Share AroundMe Google Play URL</string>
+        <string name="choose_to_share">Choose one to begin sharing</string>
+
+        <string name="invite_friends_market_url" translatable="false">https://play.google.com/store/apps/details?id=com.angopapo.aroundme</string>
+        <string name="invite_friends_share_other_message">Download this app, you will find a lot of people near, i\'m using join me: %s</string>
+
+        <string name="about_copy">© Copyright 2017 | Angopapo, LDA</string>
+        <string name="about_all">All Rights reserved.</string>
+
+        <string name="settings_logout">Logout</string>
+        <string name="settings_terms">Terms &amp; Privacy</string>
+        <string name="settings_about">About &amp; Share</string>
+        <string name="settings_use">Terms of use</string>
+        <string name="settings_about2">About</string>
+        <string name="settings_privacy">Privacy Policy</string>
+
+        <string name="important_click_to_read_our_terms">Important, click to read our terms.</string>
+        <string name="important_click_to_read_our_privacy">Important, click to read our privacy.</string>
+        <string name="version_build_and_rate_us_5_stars">Version, Build and Rate us 5 stars</string>
+        <string name="share_with_your_friends_or_family">Share with your friends and family</string>
+        <string name="invite_your_friends_and_family_to_use_angoappo">Invite your friends and family to use angoappo</string>
+        <string name="share">Share &amp; Invite friends</string>
+        <string name="invite_friends">Invite friends</string>
+
+        <string name="vip_activated">Activated</string>
+        <string name="active_vip">Activating…</string>
+        <string name="cong.vip">Congratulations, the selected service is now activated</string>
+        <string name="vip_now_con">Congratulations you are VIP now</string>
+        <string name="credit_100_buyed">Congratulations, you added 100 credits in your account</string>
+        <string name="credit_350_buyed">Congratulations, you added 350 credits in your account</string>
+
+
+        <string name="sorry_vip">Sorry</string>
+    <string name="cost_vip">"This service costs 100 credits and you have "</string>
+        <string name="vip_act_expl">Credits . Please rechargue your account to activate this service</string>
+        <string name="recg_vip">Recharge now</string>
+        <string name="credits_main">" Credits"</string>
+        <string name="conf_1">Confirmation</string>
+        <string name="conf_2">You are about to activated a paid service, this will cost you 100 credits.</string>
+        <string name="conf_3">Activate</string>
+        <string name="conf_4">Cancel</string>
+
+        <string name="vip_features_titlte">VIP Features</string>
+        <string name="sigle">Single</string>
+        <string name="dating">Dating</string>
+        <string name="married">Married</string>
+        <string name="homosexual">Homosexual</string>
+        <string name="heterosexual">Heterosexual</string>
+        <string name="bisexual">Bisexual</string>
+        <string name="mans">Boys</string>
+        <string name="girls">Girls</string>
+        <string name="both">Both</string>
+    <string name="edit">Edit</string>
+        <string name="settings_title">Preferences</string>
+        <string name="indefined">Undefined</string>
+        <string name="title_activity_save_location">Signup Process</string>
+        <string name="title_activity_visitor">Visitors</string>
+        <string name="title_activity_travel">Passport</string>
+        <string name="title_activity_forgot">Password Recover</string>
+        <string name="wait_refresh">Refresh</string>
+        <string name="drawer_item_settings">Settings</string>
+        <string name="white_here">Write here…</string>
+        <string name="maps_save2">Traveling</string>
+        <string name="about_title">About</string>
+        <string name="AppVersion">Version 1.3</string>
+        <string name="AppBuild">Build 1.1.5</string>
+
+    <string name="cost_100_credits_month">100 Credits / Month</string>
+        <string name="travel_explain">Travel to any city and meet or just talk with people there, This service is very useful when you want to travel</string>
+        <string name="visitor_explain">See who have visited your profile, so you will know who used to visit you!</string>
+        <string name="vip_my_visitores">My visitors</string>
+        <string name="remove_ads">Remove ads</string>
+        <string name="remove_explain">If you don\'t likes ads, remove ads, and you will not see ads again!</string>
+        <string name="vip_srry">Sorry, VIP is not available now =( Try later!</string>
+        <string name="vip_coulnot">Couldn\'t retrieve you inventory data. Please try later</string>
+        <string name="vip_store">VIP Store</string>
+
+        <string name="total_0_99_usd">Loading price…</string>
+        <string name="_100_credits">100 credits</string>
+        <string name="vip_get">Subscribe</string>
+        <string name="vip_buy_su">BUY</string>
+        <string name="get_50_credits_free">Get 50 credits free</string>
+        <string name="_350_credits">350 credits</string>
+        <string name="vip_for_3_months">VIP for 3 Months</string>
+        <string name="vip_for_1_month">VIP for 1 Month</string>
+        <string name="save_1_usd">Save 1 USD</string>
+        <string name="vip_in_sub">Subscription</string>
+        <string name="vip_in_free">Normal</string>
+        <string name="vip_in_credits">Credits</string>
+        <string name="vip_in_0_credits">0 Credits</string>
+        <string name="vip_in_how_to_use_cretits">How to use credits</string>
+        <string name="private_explan">You want a privacy? Then activate this feature no body will see you! When your are in private mode</string>
+    <string name="drawer_item_private">Private Profile</string>
+        <string name="drawer_item_profile">My profile</string>
+
+
+    <string name="msg_permission_required">You denied the required permission, You Disabled the function. Grant the permission to use this function !</string>
+    <string name="you_have">You have upgraded to private mode</string>
+        <string name="you_can">"You can set your profile to private or return it to public "</string>
+        <string name="private_active">PRIVATE MODE ACTIVE</string>
+        <string name="clickprivate">Click on the button to activate public mode</string>
+        <string name="clickpublic">Click on the button to activate private mode</string>
+        <string name="publicmode">PUCLIC MODE ACTIVE</string>
+        <string name="private_active2">PUBLIC MODE ACTIVE</string>
+    <string name="vip">VIP Account</string>
+        <string name="pu">PUBLIC MODE ACTIVE</string>
+        <string name="you">You have upgraded to private mode</string>
+        <string name="click2">Click on the button to activate private</string>
+        <string name="click1">Click on the button to activate public mode</string>
+    <string name="about_me">About me</string>
+        <string name="birthday2">Birthday</string>
+        <string name="personal_informations">Personal Informations</string>
+        <string name="status2">Status</string>
+        <string name="oriantation">Oriantation</string>
+        <string name="sexuality">Sexuality</string>
+    <string name="update_location2">Update Location</string>
+        <string name="update_your_location_to_see_people_around_you">Update your location to see people around you.</string>
+        <string name="buy_credits_activate_services_subscribe_to_vip">Buy credits, Activate services, Subscribe to vip.</string>
+        <string name="vip_account">VIP Account</string>
+        <string name="vip_upgrades">VIP Upgrades</string>
+        <string name="private_mode2">Private Mode</string>
+        <string name="get_your_profile_private_or_public_when_you_want">Get your profile private, or public when you want.</string>
+
+
+    <string name="hint_verification_code">Verification Code</string>
+        <string name="status_code_sent">Code Sent</string>
+        <string name="status_verification_failed">Verification failed</string>
+        <string name="status_verification_succeeded">Verification succeeded</string>
+        <string name="status_sign_in_failed">Sign-in failed</string>
+        <string name="instant_validation">(instant validation)</string>
+
+    <string name="settings_no_new_location">No new location to update, retry in few seconds…</string>
+        <string name="maps_save3">Updating Location</string>
+        <string name="error_saving">Updating Error!</string>
+        <string name="user_info_no_name">no_name</string>
+        <string name="normal_age">18</string>
+        <string name="no_location">Private</string>
+
+        <string name="signup_user_date">Birthday Missing</string>
+    <string name="error_upload_task_create">Error updating photo</string>
+        <string name="expirein">Expire on,</string>
+        <string name="traveling_to_ex_paris_museum">Traveling to ? Ex: Paris, Museum, …</string>
+
+        <string name="looking_hot">Looking for rapid nearby users</string>
+    <string name="no_views">1</string>
+
+    <!-- To delete after finish -->
+
+        <!-- Phone Login Fiels -->
+        <string name="com_lamudi_phonefield_edittext">phone_edit_text</string>
+        <string name="com_lamudi_phonefield_flag_spinner">flag_spinner</string>
+        <string name="com_lamudi_phonefield_til_phone">til_phone</string>
+        <string name="phone_hint">123456789</string>
+        <string name="submit">Next</string>
+        <string name="invalid_phone_number">Please enter a valid phone number</string>
+    <string name="tap_next_to_verify">Tap next to verify your account with</string>
+        <string name="tap_next_to_verify_2">An SMS may be sent to verify your number. Message and data rates may apply.</string>
+        <string name="auth_accept">By clicking the \"create account\" button, you are accepting our </string>
+    <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="login_with_phone_number">Login with phone number</string>
+        <string name="login_with_facebook">Login with facebook</string>
+        <string name="forgot_your_details_get_help_signing_in">Forgot your details? Get help signing in.</string>
+        <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up.</string>
+        <string name="new_account">New Account</string>
+        <string name="first_name">First name</string>
+        <string name="last_name">Last name</string>
+        <string name="enter_the_code_that_was_sent_to">Enter the code that was sent to</string>
+        <string name="i_didnt_get_a_code_resend">I didnt get a code, Resend</string>
+        <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="done">Done</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="remove_photo">Delete</string>
+    <string name="settings_delete">Delete Account</string>
+
+
+</resources>
+

@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- General -->
+    <color name="alizarin_card">#a0f9375e</color>
+
+    <color name="text_color">#454648</color>
+    <color name="light_background_color">#fff</color>
+    <color name="alizarin">#f9375e</color>
+    <color name="alizarin_dark">#ba2a47</color>
+    <color name="green">#27ae60</color>
+    <color name="green_second">#2dd176</color>
+    <color name="gray">#ededed</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="black">#000000</color>
+    <color name="red">#f42020</color>
+    <color name="invite_friends_header_text">#f9375e</color>
+    <color name="invite_friends_close_text">#AAAAAA</color>
+
+    <!-- Phone login -->
+    <color name="pf_grey">#262626</color>
+    <color name="pf_grey_light">#999999</color>
+    <color name="pf_white">#ffffff</color>
+
+
+    <!-- Grays -->
+    <color name="gray0">#f4f4f4</color>
+    <color name="gray1">#e4e4e4</color>
+    <color name="gray2">@android:color/darker_gray</color>
+    <color name="gray3">#A4A4A4</color>
+    <color name="gray4">#747376</color>
+    <color name="gray5">#383333</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_800">#424242</color>
+
+    <!-- Transparent -->
+    <color name="full_transparent">#00000000</color>
+
+</resources>

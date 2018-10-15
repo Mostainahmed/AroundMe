@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rViewe"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="7dp">
+
+
+
+    <RelativeLayout
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/list2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_photo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/profile_default_photo"/>
+
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/message_txt"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/time"
+            android:layout_toStartOf="@+id/time"
+            android:text="Maravilho Singa"
+            android:textColor="#000000"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="normal|bold"/>
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/message_txt"
+            android:text="11:41"
+            android:textColor="@color/gray2"
+            android:textSize="12sp"/>
+
+        <com.vanniktech.emoji.EmojiTextView
+            android:id="@+id/message_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentRight="false"
+            android:layout_below="@+id/username"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@+id/profile_photo"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="Last message"
+            android:textColor="@color/gray3"
+            android:textSize="13sp"/>
+
+        <ImageView
+            android:id="@+id/image_online_status"
+            android:layout_width="13dp"
+            android:layout_height="13dp"
+            android:layout_alignBottom="@+id/profile_photo"
+            android:layout_alignEnd="@+id/profile_photo"
+            android:layout_alignRight="@+id/profile_photo"
+            android:src="@drawable/ic_online_15_0_alizarin"/>
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignBottom="@+id/message_txt"
+            android:layout_alignEnd="@+id/message_txt"
+            android:layout_alignRight="@+id/message_txt"
+            android:src="@drawable/ic_sending_24dp"/>
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:layout_below="@+id/list2"
+            android:layout_gravity="right"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="5dp"
+            android:background="#ACACAC"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

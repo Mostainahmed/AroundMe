@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/cv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/plain_border_no_border">
+
+    <ImageView
+        android:id="@+id/user_photo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:background="@drawable/profile_default_photo"
+        android:scaleType="fitXY" />
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user_photo"
+        android:background="#fefefe"
+        android:paddingBottom="1dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="2dp">
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="2dp"
+            android:layout_toRightOf="@+id/image_online_status"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Fullname"
+            android:textAlignment="center"
+            android:textColor="@color/gray2"
+            android:textSize="13dp"
+            android:textStyle="normal|bold"/>
+
+        <ImageView
+            android:id="@+id/image_online_status"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="4dp"
+            android:src="@drawable/ic_online_15_0_alizarin"/>
+
+
+        <LinearLayout
+            android:id="@+id/countWrapper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/username"
+            android:layout_margin="6dp"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginRight="3dp"
+                android:alpha="0.5"
+                android:src="@drawable/birthday"/>
+
+            <TextView
+                android:id="@+id/user_age"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:gravity="right"
+                android:text="0"
+                android:textColor="#bbbbbb"
+                android:textSize="12dp"
+                android:textStyle="italic"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:layout_below="@+id/username"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/gray2"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/countWrapper"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginRight="3dp"
+                android:contentDescription="Ad Image"
+                android:src="@drawable/marker_100"/>
+
+            <TextView
+                android:id="@+id/text_distance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingTop="1dp"
+                android:text="Location"
+                android:textColor="#bbbbbb"
+                android:textSize="12dp"
+                android:textStyle="italic"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/mans"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/mans"
+        />
+    <item
+        android:title="@string/girls"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/girls"
+        />
+    <item
+        android:title="@string/both"
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/both"
+        />
+
+</menu>
